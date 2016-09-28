@@ -14,5 +14,3 @@ Neelakkuyil
 
 Developed by:
 Dhanoop Karunakaran
-
-Language: Java
